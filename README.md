@@ -68,7 +68,6 @@ This project implements a **movie recommendation system** using **collaborative 
 ## 📄 Files Included
 
 - `Movie Recommendation System.pdf` – Full report with explanation and results
-- (Optional) `recommendation_system.ipynb` – Python notebook for actual code
 - `README.md` – This documentation file
 
 ---
